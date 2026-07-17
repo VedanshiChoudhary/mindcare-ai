@@ -9,21 +9,31 @@ The project uses a local Large Language Model (Llama 3.2) through Ollama and pro
 ## ✨ Features
 
 ### 🧠 Mood Analysis Agent
-- Detects user's emotional state
-- Identifies possible emotions
-- Provides supportive suggestions
+•⁠  ⁠Detects user's emotional state
+•⁠  ⁠Identifies emotions
+•⁠  ⁠Provides supportive suggestions
 
 ### 📖 Journal Reflection Agent
-- Analyzes journal entries
-- Summarizes thoughts
-- Provides reflection questions
-- Suggests small positive actions
+•⁠  ⁠Analyzes journal entries
+•⁠  ⁠Summarizes thoughts
+•⁠  ⁠Suggests reflection questions
 
-### 🤖 Local AI Processing
-- Uses Llama 3.2 locally
-- Runs without external API dependency
-- Protects user privacy
+### 🧘 Meditation Agent
+•⁠  ⁠Recommends guided meditation
+•⁠  ⁠Suggests breathing exercises
+•⁠  ⁠Helps reduce stress
 
----
+### 😊 Mood Tracker
+•⁠  ⁠Records daily moods
+•⁠  ⁠Shows mood history
+•⁠  ⁠Tracks emotional trends
 
-## 🏗️ Project Architecture
+### 😴 Sleep Agent
+•⁠  ⁠Monitors sleep habits
+•⁠  ⁠Provides sleep improvement tips
+•⁠  ⁠Encourages healthy routines
+
+### 📄 PDF Agent
+•⁠  ⁠Reads PDF documents
+•⁠  ⁠Summarizes uploaded files
+•⁠  ⁠Answers questions from PDFs
